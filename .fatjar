@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Oct 26 15:10:54 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=HILTI_SF6-A(20160714)addDifference_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Frame
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
